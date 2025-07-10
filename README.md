@@ -1,7 +1,3 @@
-**Linux project idea with full code and documentation** that is suitable for learning and showcasing practical Linux skills:
-
----
-
 ## 🔍 Project: **Linux Log Monitoring & Alert System**
 
 ### 📂 Repo Name:
