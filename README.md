@@ -1,9 +1,5 @@
 ## 🔍 Project: **Linux Log Monitoring & Alert System**
 
-### 📂 Repo Name:
-
-`linux-log-monitoring-alert-system`
-
 ---
 
 ## 📘 Project Description:
